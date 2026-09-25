@@ -1,0 +1,7 @@
+# Normalize line endings
+# Configuration for git attributes
+**/*.js linguist-detectable
+public/**/*.html linguist-vendored
+*.svg text
+public/*.html linguist-vendored
+go.sum linguist-generated
