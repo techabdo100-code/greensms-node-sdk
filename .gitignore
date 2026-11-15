@@ -1,0 +1,5 @@
+*.log
+.env.local
+build/
+.pnpm-store/
+_site/
